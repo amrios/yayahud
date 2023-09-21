@@ -48,8 +48,8 @@ Scheme
                                                      
       
         "Ammo"                 "227 227 227 255"    //Current clip
-		"AmmoReserve"          "227 227 227 255"    //Reserve clip
-        "AmmoLow"              "187 187 187 255"    //Low ammo count
+	"AmmoReserve"          "227 227 227 255"    //Reserve clip
+        "AmmoLow"              "200 40 0 255"    //Low ammo count
         
         "ChargingUber"  "227 227 227 255"   //Percentage color when charging
         "UberMeter"     "22 182 71 255"     //Uber meter ready color
